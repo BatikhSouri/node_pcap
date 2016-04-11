@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "nan": "^2.0.9",
-    "socketwatcher": "^0.3.0"
+    "socketwatcher": "git+https://github.com/btrask/node-socketwatcher.git#1c181dbef7f83b190d3f2f40d93a10868d3b75a4"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
